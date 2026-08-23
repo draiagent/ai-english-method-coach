@@ -1,4 +1,4 @@
-# AI 英語方法教練
+# AI 英語學習教練
 
 **AI English Method Coach**
 
