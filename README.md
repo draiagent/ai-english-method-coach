@@ -6,7 +6,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-2B6CB0.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D22.13.0-06B6D4.svg)](package.json)
 
-一套把「背單字」升級為「理解方法、主動回想、實際輸出與間隔複習」的開源英語學習工具。採 **Local-first** 架構，不需登入，也不依賴付費 AI API；學習紀錄保存在使用者自己的瀏覽器 IndexedDB。
+AI 時代採 Codex Agent 生成的一套把「背單字」升級為「理解方法、主動回想、實際輸出與間隔複習」的開源英語學習工具。採 Local-first 架構，不需登入，也不依賴付費 AI API；學習紀錄保存在使用者自己的瀏覽器 IndexedDB。
 
 > 產品核心：**看懂學習方法 → 完成七步教練流程 → 留下輸出證據 → 依表現安排複習。**
 
@@ -215,6 +215,7 @@ traditional-chinese
 
 - 企業 AI 導入與生成式 AI 教學
 - 大學與產業業界講師
+- 國家級高爾夫球教練
 - CGM Coach 血糖教練
 - GitHub：[@draiagent](https://github.com/draiagent)
 
@@ -226,3 +227,4 @@ traditional-chinese
 - 教師班級字庫與任務模板
 - 可選用的雲端同步
 - 經使用者明確授權後才啟用的生成式 AI 回饋
+- 開源可公開教學與學習語言
